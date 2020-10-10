@@ -7,7 +7,7 @@ I’m currently working on rewriting [Django-GUID](https://github.com/snok/djang
 You can reach me on `jonas-ks@hotmail.com`.  
 My personal notebook can be found [here](https://hotfix.guru).
 
-If we've collaborated, feel free to add me on [LinkedIn](https://linkedin.com/in/jonasks)
+If we've collaborated, feel free to add me on [LinkedIn](https://linkedin.com/in/jonasks).
 
 
 [hotfix.guru](https://hotfix.guru) | [snok.dev](https://snok.dev) | [github.com/snok](https://github.com/snok)
