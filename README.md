@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi [🐍](https://snok.dev)
+This profile contains my personal projects, such as chat bots, chat servers, scripts, example code and so on.  
+For published PyPi packages see [github.com/snok](https://github.com/snok).
 
-<!--
-**JonasKs/JonasKs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on rewriting [Django-GUID](https://github.com/snok/django-guid) with asyncio support for Django>=3.1.
 
-Here are some ideas to get you started:
+You can reach me on `jonas-ks@hotmail.com`.  
+My personal notebook can be found [here](https://hotfix.guru).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If we've collaborated, feel free to add me on [LinkedIn](https://linkedin.com/in/jonasks)
+
+
+[hotfix.guru](https://hotfix.guru) | [snok.dev](https://snok.dev) | [github.com/snok](https://github.com/snok)
