@@ -2,9 +2,9 @@
 This profile contains my personal projects, such as chat bots, chat servers, scripts, example code and so on.  
 For published PyPi packages see [github.com/snok](https://github.com/snok).
 
-I’ve just finished rewriting [Django-GUID](https://github.com/snok/django-guid) to support ASGI and asyncio support for `Django>=3.1`.
+Author of [`Django-GUID` (156⭐)](https://github.com/snok/django-guid), which I've also rewritten entirely. This package inject a correlation ID into every log message from a Django request. 
 
-I'm working on a new Django middleware for `Django>=3.1`, and hope to write some FastAPI's in the close future.
+I am the maintainer of [`Django-auth-ADFS` (119⭐)](https://github.com/snok/django-auth-adfs), a library to implement Azure AD and ADFS for Django.
 
 You can reach me on `jonas-ks@hotmail.com`.  
 My personal notebook can be found [here](https://hotfix.guru).
