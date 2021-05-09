@@ -8,6 +8,8 @@ Author of [`Metroid`](https://github.com/intility/metroid). Metroid is an async 
 
 I am the maintainer of [`Django-auth-ADFS`](https://github.com/snok/django-auth-adfs), a library to implement Azure AD and ADFS authentication for Django and Django Rest Framework.
 
+Currently working on a FastAPI app to upload, view and manage my S3 bucket. 
+
 You can reach me on `jonas-ks@hotmail.com`.  
 My personal notebook can be found [here](https://hotfix.guru).
 
