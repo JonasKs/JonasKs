@@ -4,7 +4,7 @@ For bigger projects or published PyPi packages see [@snok](https://github.com/sn
 
 I'm the author of:
 
-* 🔒 [`FastAPI-Azure-auth`](https://github.com/intility/fastapi-azure-auth) - Implement Azure AD authentication and authorization in FastAPI applications with ease. Single- and multi-tenant support.
+* 🔒 [`FastAPI-Azure-Auth`](https://github.com/intility/fastapi-azure-auth) - Easy and secure implementation of Azure AD for your FastAPI APIs. Single- and multi-tenant support.
 
 * 📝 [`Django-GUID`](https://github.com/snok/django-guid) - Inject a correlation ID into every log message from a Django request, making troubleshooting easy. Integrates with Celery and Sentry. [Used by](https://github.com/snok/django-guid/network/dependents?package_id=UGFja2FnZS03NjU4NDA3NzQ%3D) awesome projects such as [`ansible/AWX`](https://github.com/ansible/awx). 
 
