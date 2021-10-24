@@ -12,10 +12,9 @@ I'm the author of:
 
 * 🔒 [`Django-auth-ADFS`](https://github.com/snok/django-auth-adfs) - Implement Azure AD and ADFS authentication for Django and Django Rest Framework. Originally authored by Jobec, but [@snok](https://github.com/snok) has taken ownership and authored a bunch of new features over the last year or so.
 
-... but also involved in and maintain a bunch of other projects 🚀 See pins/feed/organizations. 
+* 📜 [`Create-FastAPI-App`](https://github.com/intility/templates) - Create a FastAPI application with Azure AD authentication, SQLModel, Redis Cache etc. Docs can be found [here](https://create.intility.app/).
 
-I'm currently working on:
-* 🛠️ Create-FastAPI-app for Intility projects. Will be a subfolder under [intility/templates](https://github.com/intility/templates)
+... but also involved in and maintain a bunch of other projects 🚀 See pins/feed/organizations. 
 
 You can reach me on `jonas-ks@hotmail.com` or `jonas.svensson@intility.no`
 
