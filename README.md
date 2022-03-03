@@ -16,6 +16,15 @@ I'm the author of:
 
 ... but also involved in and maintain a bunch of other projects 🚀 See pins/feed/organizations. 
 
+Hobby/other projects:
+* 🎬 [`klepp-backend`](https://github.com/jonasks/klepp-backend) - A service to share clips among friends, while owning and managing our own data by using FastAPI APIs, Cognito auth, S3 buckets, Cloudflare CDN etc.
+
+* ✨ [`dotfiles`](https://github.com/jonasks/dotfiles) - My dotfiles.
+
+* 💬 [`aiohttp-chat`](https://github.com/JonasKs/aiohttp-chat) - A project to teach asyncio and websockets in Python. 
+
+* 🔨 [`twitch-pubsub-discord-sync`](https://github.com/JonasKs/twitch-pubsub-discord-sync) - A hacky little thing to reflect moderator actions from twitch chat into a discord server.
+
 You can reach me on `jonas-ks@hotmail.com` or `jonas.svensson@intility.no`
 
 If we've collaborated, feel free to add me on [LinkedIn](https://linkedin.com/in/jonasks).
