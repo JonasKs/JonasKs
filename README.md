@@ -2,7 +2,9 @@
 The projects you find on my personal profile are small projects such as chat bots, chat servers, scripts, example code and so on.  
 For bigger projects or published PyPi packages see [@snok](https://github.com/snok) and [@intility](https://github.com/intility).
 
-I'm the author of:
+🤖 I built [ChaTTY](https://github.com/JonasKs/chatty) — a PoC that integrates AI into your terminal in the summer of 2024 - before Claude Code and Codex existed (Open sourced in 2026).
+
+### I'm the author of 
 
 * 🔒 [`@Intility/FastAPI-Azure-Auth`](https://github.com/intility/fastapi-azure-auth) - Easy and secure implementation of Azure AD for your FastAPI APIs. Single- and multi-tenant support.
 
@@ -17,7 +19,9 @@ I'm the author of:
 
 ... but also involved in and maintain a bunch of other projects 🚀 See pins/feed/organizations. 
 
-Hobby/other projects:
+### Hobby/other projects
+* 🤖 [ChaTTY](https://github.com/JonasKs/chatty) - ChaTTY (AI Chat + TTY) — Chat with your terminal 
+
 * 🎬 [`@klepp-me/klepp-backend`](https://github.com/jonasks/klepp-backend) - A service to share clips among friends, while owning and managing our own data by using FastAPI APIs, Cognito auth, S3 buckets, Cloudflare CDN etc.
 
 * ✨ [`@JonasKs/dotfiles`](https://github.com/jonasks/dotfiles) - My dotfiles.
