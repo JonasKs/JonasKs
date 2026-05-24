@@ -2,7 +2,7 @@
 The projects you find on my personal profile are small projects such as chat bots, chat servers, scripts, example code and so on.  
 For bigger projects or published PyPi packages see [@snok](https://github.com/snok) and [@intility](https://github.com/intility).
 
-🤖 I built [ChaTTY](https://github.com/JonasKs/chatty) — a PoC that integrates AI into your terminal in the summer of 2024 - before Claude Code and Codex existed (Open sourced in 2026).
+🤖 I built [ChaTTY](https://github.com/JonasKs/chatty) — a PoC that integrates AI into your terminal in the summer of 2024 - before Claude Code and Codex existed.
 
 ### I'm the author of 
 
