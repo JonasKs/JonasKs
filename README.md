@@ -26,7 +26,7 @@ For bigger projects or published PyPi packages see [@snok](https://github.com/sn
 
 * 🔨 [`@JonasKs/twitch-pubsub-discord-sync`](https://github.com/JonasKs/twitch-pubsub-discord-sync) - A hacky little thing to reflect moderator actions from twitch chat into a discord server.
 
-You can reach me on `jonas-ks@hotmail.com` or `jonas.svensson@vibber.ai`
+You can reach me on `jonas-ks@hotmail.com` or `jonas@vibber.ai`
 
 If we've collaborated, feel free to add me on [LinkedIn](https://linkedin.com/in/jonasks).
 
